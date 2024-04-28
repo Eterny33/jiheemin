@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/timothy.js"></script>
+    
+    <link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="../css/print.css" rel="stylesheet" type="text/css" media="print">
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-type" content="cache" />
+    <meta name="robots" content="INDEX,FOLLOW" />
+    <meta name="keywords" content="Jihee Min" />
+    <meta name="description" content="Korea-born Canadian, Jihee Min explores art as means to formulate a voice for an identity. Min often includes herself as a posing sculpture to respond to her displaced existence, and her yearning for childhood creates an imaginary character that relates across the complexity of time and space of a visual minority in Western society." />
+<!-- TemplateBeginEditable name="doctitle" -->
+    <title>Jihee Min | Visual Artist</title>
+    <!-- TemplateEndEditable -->
+    <!-- Google Analytics Code GOes Below Here -->
+    
+    <!-- End Google Analytics COde -->
+    
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="outer">
+
+<div id="wrapper">
+		
+        <div id="logo">
+        	<img src="../images/icons/logo3.png" />
+        </div>
+        
+        <div id="social-media-icons">
+        	<ul>
+            	<li><a href="http://jiheeminstudio.blogspot.ca/"><img src="../images/icons/SM_blogger.jpg" /></a></li>
+             	<li><a href="https://www.etsy.com/shop/jminstudio"><img src="../images/icons/SM_etsy.jpg" /></a></li>
+                <li><a href="http://www.facebok.com/jiheemin.artist"><img src="../images/icons/SM_facebook.jpg" /></a></li>
+                <li><img src="../images/icons/SM_googleplus.jpg" /></li>
+                <li><img src="../images/icons/SM_tweeter.jpg" /></li>
+            	<li><img src="../images/icons/SM_youtube.jpg" /></li>                
+            </ul>
+        </div>
+        
+        <div id="topnav">
+        	<ul>
+            	<li><a href="../index.html">HOME</a></li>
+                <li><a href="../about.html">ABOUT</a></li>
+                <li><a href="../work.html">WORK</a></li>
+                <li><a href="../press.html">PRESS</a></li>
+                <li><a href="../cv.html">CV</a></li>
+                <li><a href="../gp.html">GP</a></li>
+                <li><a href="../contact.html">CONTACT</a></li>
+            </ul>
+        </div>
+        
+        <div id="banner">
+        	<img src="../images/banner/one_iscream.jpg" />
+        </div>
+        
+        <div id="content"><!-- TemplateBeginEditable name="content" -->
+          <h1>I create with an intention to connect with the audience.</h1>
+          <p>My art pieces are mainly comprised of live actions and public participations. I display and perform with objects that recall my childhood memory, and I often use color and my body as medium to convey naivety and fantasy in the scenes I create. Within my performative temporal spaces, I share experiences specific to the complexity of displaced cultural boundaries and I seek to formulate a voice with a hope for an identity.</p>
+          <h4>Ongoing Project</h4>
+          <p>The below link will take you to Project Confidence, where you can participate in the creation of an image that represents <i>confidence</i> for Canada.</p>
+        <img class="image-frame" src="../images/confidence01.jpg" /><!-- TemplateEndEditable --></div>
+        
+        <div id="rightside"><!-- TemplateBeginEditable name="rightbar" -->
+          <h2>Upcoming Shows</h2>
+          <p class="date">May 1 - June 7, 2014
+          <h3>OBANG – L'HARMONIE DES COULEURS</h3>
+            <p>A three-person exhibition presented by Festival Accès Asie, at Maison de la Culture Frontenac, Montreal. Opening is on May 2nd, from 5-7pm. I am also presenting a performance at the opening.</p>
+            <p class="date">Summer 2014 
+            <h3>Canada: Day 1</h3>
+            <p>Travelling exhibition accross Canada curated by the Canadian Museum of Immigration. The exhibition runs from Summer 2014 to 2017 for 12 or 24 week disply periods.</p>
+        <!-- TemplateEndEditable --></div>
+        
+        <div id="footer">
+       	  <p class="footer-text">Copyright 2014 - Jihee Min</p>        
+        </div>
+</div>
+</div>
+
+
+</body>
+</html>
